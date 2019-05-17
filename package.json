@@ -14,7 +14,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "javascript-obfuscator": "0.18.0",
+    "javascript-obfuscator": "Domuska/javascript-obfuscator#master",
     "multi-stage-sourcemap": "0.2.1",
     "multimatch": "2.1.0"
   },
